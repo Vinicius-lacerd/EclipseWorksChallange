@@ -40,7 +40,7 @@ docker run -p 8080:8080 -p 8081:8081 --name eclipseworks_container eclipseworks-
 
 ## Database
 Banco de dados utilizado foi SQL Server e o script está no repositorio
-CriacaoDB.sql
+- **CriacaoDB.sql
 
 ##Informações
 - **Language:** C# (.NET 9)
